@@ -21,6 +21,7 @@
 - [Правила взаимодействия](docs/team-contract.md)
 - [Роли и ответственность](docs/roles-and-responsibilities.md)
 - [Матрица RACI](docs/raci-matrix.md)
+- [Профессиональные стандарты](https://base.garant.ru/57746200/?ysclid=mufrumkd7v428932423)
 
 ## Практические работы
 
