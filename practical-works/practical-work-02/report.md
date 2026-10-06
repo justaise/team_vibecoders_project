@@ -43,9 +43,24 @@
 Алексей, Артем и Саид добавили свои логины github в отчет №2:
 ![группа логинов](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/саид%20артем%20алексей%20добавили%20логин.png)
 
-### 6. Pull Request и ревью
+### 6. Pull Request и процесс ревью
 
-Для каждого участника создать отдельную ветку, внести изменения, выполнить `push`, создать Pull Request и получить ревью другого участника. Добавить скриншоты в `assets/`.
+1) Pull Request Алексея на merge изменений в отчете №2
+   ![измененияалексея](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/%D0%BF%D1%83%D0%BB%D0%BB%20%D1%80%D0%B5%D0%BA%D0%B2%D0%B5%D1%81%D1%82%20%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D1%8F%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%80%D0%B6%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B5%20%E2%84%962.png)
+2) Pull Request Артема на merge изменений в отчете №2
+   ![измененияартема](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/%D0%BF%D1%83%D0%BB%D0%BB%20%D1%80%D0%B5%D0%BA%D0%B2%D0%B5%D1%81%D1%82%20%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%80%D0%B6%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B5%20%E2%84%962.png)
+3) Pull Request Артемия на merge изменений в отчете №2
+   ![измененияартемия](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/%D0%BF%D1%83%D0%BB%D0%BB%20%D1%80%D0%B5%D0%BA%D0%B2%D0%B5%D1%81%D1%82%20%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%80%D0%B6%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B5%20%E2%84%962.png)
+4) Pull Request Ивана на merge изменений в отчете №2
+   ![измененияивана](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/%D0%BF%D1%83%D0%BB%D0%BB%20%D1%80%D0%B5%D0%BA%D0%B2%D0%B5%D1%81%D1%82%20%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%80%D0%B6%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B5%20%E2%84%962.png)
+5) Pull Request Саида на merge изменений в отчете №2
+   ![изменениясаида](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/%D0%BF%D1%83%D0%BB%D0%BB%20%D1%80%D0%B5%D0%BA%D0%B2%D0%B5%D1%81%D1%82%20%D1%81%D0%B0%D0%B8%D0%B4%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%80%D0%B6%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B5%20%E2%84%962.png)
+
+Процесс ревью с Иваном:
+
+![ревью](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%20%D1%81%20%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%BC.png)
+
+Не совсем корректно выполнено внесение логина в отчет №2, поэтому запрос был помечен неверным и был отклонен
 
 ### 7. Вывод
 
