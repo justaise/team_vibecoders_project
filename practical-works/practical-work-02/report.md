@@ -20,7 +20,7 @@
 
 Название: `team-vibecoders-project`
 
-Ссылка: _вставить ссылку на GitHub после создания репозитория_
+Ссылка: _https://github.com/justaise/team_vibecoders_project_
 
 ### 3. Структура репозитория
 
