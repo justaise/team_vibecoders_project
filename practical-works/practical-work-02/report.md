@@ -34,7 +34,14 @@
 
 ### 5. Коммиты
 
-Добавить скриншоты истории коммитов с указанием авторов в `assets/`.
+Артемий дополнил правила взаимодействия бригады:
+![Артемий дополнил правила взаимодействия бригады](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/артемий%20дополнил%20правила%20взаимодействия%20бригады.png)
+
+Иван добавил свой логин github в отчет №2:
+![Иван добавил логин](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/иван%20добавил%20логин.png)
+
+Алексей, Артем и Саид добавили свои логины github в отчет №2:
+![группа логинов](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-02/assets/саид%20артем%20алексей%20добавили%20логин.png)
 
 ### 6. Pull Request и ревью
 
