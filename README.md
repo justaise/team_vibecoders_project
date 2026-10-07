@@ -10,11 +10,11 @@
 
 | Участник |
 |---|
-| Шереметьев Артемий |
-| Чижиков Иван |
-| Халилов Саид |
-| Чурилов Артем |
-| Чикалкин Алексей |
+| [Шереметьев Артемий](https://github.com/justaise/team_vibecoders_project/blob/main/docs/roles-and-responsibilities.md#роли-и-ответственность) |
+| [Чижиков Иван](https://github.com/justaise/team_vibecoders_project/blob/main/docs/roles-and-responsibilities.md#роли-и-ответственность) |
+| [Халилов Саид](https://github.com/justaise/team_vibecoders_project/blob/main/docs/roles-and-responsibilities.md#роли-и-ответственность) |
+| [Чурилов Артем](https://github.com/justaise/team_vibecoders_project/blob/main/docs/roles-and-responsibilities.md#роли-и-ответственность) |
+| [Чикалкин Алексей](https://github.com/justaise/team_vibecoders_project/blob/main/docs/roles-and-responsibilities.md#роли-и-ответственность) |
 
 ## Документация
 
