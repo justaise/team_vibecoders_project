@@ -6,7 +6,7 @@
 **Год:** 2026  
 **Город:** Рязань
 
-## (Ссылка на опрос)[https://docs.google.com/spreadsheets/d/1s7r5O9rV2O1BrAB5fAxiFJW5Lmg92gb4xGv5zkYDJVA/edit?usp=sharing]
+## [Ссылка на опрос](https://docs.google.com/spreadsheets/d/1s7r5O9rV2O1BrAB5fAxiFJW5Lmg92gb4xGv5zkYDJVA/edit?usp=sharing)
 
 ## 1. Перечень сегментов целевой аудитории и обоснование
 
