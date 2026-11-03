@@ -106,7 +106,7 @@
 
 **Всего: 37 идей.**
 
-[Формат на доске Miro](https://github.com/justaise/team_vibecoders_project/blob/main/practical-works/practical-work-04/assets/банк%20идей%20(без%20отбора).png)
+[Формат на доске Miro]()
 
 --- 
 
