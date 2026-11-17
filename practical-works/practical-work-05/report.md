@@ -139,7 +139,7 @@
 
 ### Карта навигации
 
-![Карта навигации](assets/8-navigationMap.png)
+![Карта навигации](practical-works/practical-work-05/assets/8-navigationMap.PNG)
 
 Та же схема в виде диаграммы:
 
@@ -169,25 +169,25 @@ flowchart TD
 Эскизы выполнены в виде каркасов (wireframes) для десктопной версии. 
 
 ### 5.1. Главная
-![Главная](assets/1-main.png)
+![Главная](assets/1-main.PNG)
 
 ### 5.2. Подбор подарка (анкета)
-![Анкета](assets/2-quiz.png)
+![Анкета](assets/2-quiz.PNG)
 
 ### 5.3. Результаты подбора
-![Результаты](assets/3-results.png)
+![Результаты](assets/3-results.PNG)
 
 ### 5.4. Карточка подарка
-![Карточка подарка](assets/4-gift-card.png)
+![Карточка подарка](assets/4-gift-card.PNG)
 
 ### 5.5. Избранное и вишлист
-![Избранное](assets/5-favorites.png)
+![Избранное](assets/5-favorites.PNG)
 
 ### 5.6. Календарь и напоминания
-![Календарь](assets/6-calendar.png)
+![Календарь](assets/6-calendar.PNG)
 
 ### 5.7. Личный кабинет
-![Личный кабинет](assets/7-cabinet.png)
+![Личный кабинет](assets/7-cabinet.PNG)
 
 ---
 
