@@ -139,7 +139,7 @@
 
 ### Карта навигации
 
-![Карта навигации](practical-works/practical-work-05/assets/8-navigationMap.PNG)
+![Карта навигации](assets/8-navigationMap.PNG)
 
 Та же схема в виде диаграммы:
 
@@ -178,7 +178,7 @@ flowchart TD
 ![Результаты](assets/3-results.PNG)
 
 ### 5.4. Карточка подарка
-![Карточка подарка](assets/4-gift-card.PNG)
+![Карточка подарка](assets/4-giftcard.PNG)
 
 ### 5.5. Избранное и вишлист
 ![Избранное](assets/5-favorites.PNG)
